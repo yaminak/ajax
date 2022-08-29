@@ -1,0 +1,1 @@
+<strong>Bienvenue au cours d'AJAX</strong>
